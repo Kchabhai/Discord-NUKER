@@ -1,1 +1,15 @@
 
+{
+  "token": "MTEyMzkyMzkwODM0OTkzOTgwNQ.GXwteI.6DnegSjW1YE9eFBfL6kjuqxdVsU7bBReJIO_6I",
+  "prefix": "?",
+  "owners": [
+    881189219102515211
+  ],
+  "whitelistbool": true,
+  "activity": {
+    "type": "playing",
+    "text": "CYBER NUKER V1",
+    "isenabled": true
+  },
+  "discordlogging": true
+}
